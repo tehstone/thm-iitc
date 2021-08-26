@@ -1189,7 +1189,7 @@ function wrapperPlugin(plugin_info) {
           $('.THMStatus > a').attr('title', '');
         }
 
-        $(portalDetails).append('<div class="THMButtons">Transformers Heavy Metal: ' + thisPlugin.htmlStar + '</div>'
+        $(portalDetails).append('<div class="THMButtons">Transformers Heavy Metal: ' + thisPlugin.htmlStar + '</div>');
 
         thisPlugin.updateStarPortal();
       }, 0);
