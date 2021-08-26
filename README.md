@@ -1,4 +1,4 @@
-This is script helps in finding out info about POIs in Transformers: Heavy Metal. Is is a plugin for IITC to run in https://ingress.com/intel, you need an Ingress account and IITC already installed.
+This script helps in finding out and tracking info about POIs in Transformers: Heavy Metal. Is is a plugin for IITC to run on https://ingress.com/intel, you need an Ingress account and IITC already installed.
 The plugin is largely based on the Pokemon GO S2 plugin at [AlfonsoML/pogo-s2](https://gitlab.com/AlfonsoML/pogo-s2).
 
 **Pre-requisites**
