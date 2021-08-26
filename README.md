@@ -25,7 +25,7 @@ Settings dialog:
 Actions dialog
 1. Export all the THM POI data in JSON.
 2. Export the THM POI data as CSV to use it in any place where they expect that format (Overpass turbo, etc)
-3. Reset all the data. In case something goes wrong (maybe incompatibility with another plugin) test by clicking this option and reloading intel. If you have other IITC plugins for HPWU you should try to disable them if there are problems, this plugin includes everything that is needed.
+3. Reset all the data. In case something goes wrong (maybe incompatibility with another plugin) test by clicking this option and reloading intel. If you have other IITC plugins for THM you should try to disable them if there are problems, this plugin includes everything that is needed.
 4. Import/Export the whole data for backups or to use in another device
 
 **Adding POIs**
